@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    
+}
+
+body{
+    background-color: rgb(245, 235, 220);
+}
+
+.main{
+    display: flex;
+}
+
+.left-area{
+    background-color: chocolate;
+    background-image: url(images/image.png);
+    background-size: 35vw;
+    width: 35vw;
+    height: 100vh;
+}
+
+.right-area{
+    
+    width: 65vw;
+    height: 100vh;
+}
+
+.lefttop-space{
+    height: 25vh;
+}
+
+.logo-area{
+    height: 20vh;
+    background-color: rgba(63, 41, 0, 0.521);
+    display: flex;
+}
+
+.logo{
+    width: 10rem;
+    height: 8rem;
+    margin: auto 0 auto 1.5rem;
+
+}
+
+.logo-text{
+    font-family: 'Silkscreen', cursive;
+    font-size: 3.5rem;
+    margin: auto auto;
+    color: white;
+}
+
+.leftbot-space{
+    height: 55vh;
+}
+
+.top-container{
+    height: 40vh;
+    
+}
+.middle-container{
+    height: 35vh;
+    background-color: rgb(207, 184, 154);
+    box-shadow: 3px 5px 5px rgba(0, 0, 0, 0.521);
+    margin-bottom: 10px;
+}
+.bottom-container{
+    height: 25vh;
+}
+
+
