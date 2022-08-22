@@ -36,8 +36,8 @@ body{
 }
 
 .logo{
-    width: 10rem;
-    height: 8rem;
+    width: 27%;
+    height: 80%;
     margin: auto 0 auto 1.5rem;
 
 }
@@ -57,11 +57,9 @@ body{
     height: 40vh;
     
 }
-.middle-container{
-    height: 35vh;
+.form{
     background-color: rgb(207, 184, 154);
     box-shadow: 3px 5px 5px rgba(0, 0, 0, 0.521);
-    margin-bottom: 10px;
 }
 .bottom-container{
     height: 25vh;
